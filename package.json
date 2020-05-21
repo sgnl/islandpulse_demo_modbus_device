@@ -1,0 +1,10 @@
+{
+  "name": "islandpulse_modbus_demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "modbus-serial": "^7.8.1",
+    "postgres": "^1.0.2"
+  }
+}
