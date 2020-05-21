@@ -46,6 +46,12 @@ function getData(cb) {
       .catch(console.error);
 }
 
+/**
+ * address[0] = "Airport"
+ * address[1] = "Central/Wahiawa"
+ * ...
+ * address[14] = "WindFarm"
+ */
 const AREA_NAMES = [
   "Airport",
   "Central/Wahiawa",
