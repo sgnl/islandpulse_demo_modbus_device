@@ -1,4 +1,5 @@
 # Island Pulse Modbus Device
+This is a supplemental repository used as an aid for a [InfluxDB Dashboard Template for Modbus](https://github.com/influxdata/community-templates/tree/master/modbus). Please refer to that repository for more information.
 
 ## Requirements
 
